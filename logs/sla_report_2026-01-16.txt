@@ -1,0 +1,12 @@
+SLA REPORT (FROM RAW LOGS)
+Generated : Fri Jan 16 17:34:36 UTC 2026
+Source    : raw_logs
+
+ENDPOINT                                      REGION   TOTAL      SUCCESS    SLA %   
+------------------------------------------------------------------------------------
+http://13.233.192.255/health                  APAC     187        170        90.91  
+------------------------------------------------------------------------------------
+OVERALL SLA
+Total checks    : 187
+Successful      : 170
+Overall SLA (%) : 90.91
